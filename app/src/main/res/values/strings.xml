@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Invitation App</string>
+    <string name="text_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus quam, aliquam sit amet ligula a, pulvinar laoreet libero. Fusce arcu justo, convallis sed molestie nec, convallis quis sapien. Praesent maximus ipsum sit amet urna lacinia, quis finibus sapien tincidunt. Morbi hendrerit augue nec efficitur bibendum. Nullam accumsan consequat ultricies. Donec in consequat magna, sit amet convallis orci. Proin maximus mi mattis, congue nisi ac, ornare est. Integer commodo risus ante, at euismod leo condimentum eget. Duis quis ultricies erat, sit amet aliquam mi.</string>
+    <string name="auto_backup_photos" />
+</resources>
